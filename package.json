@@ -1,0 +1,31 @@
+{
+  "name": "link-ui",
+  "version": "0.0.0",
+  "description": "'mercury ui component for link' ",
+  "main": "index.js",
+  "scripts": {
+    "examples": "exampler-develop",
+    "examples-build": "exampler-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:openappjs/link-ui.git"
+  },
+  "keywords": [
+    "link",
+    "mercury",
+    "ui"
+  ],
+  "author": "openappjs",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/openappjs/link-ui/issues"
+  },
+  "homepage": "https://github.com/openappjs/link-ui",
+  "dependencies": {
+    "mercury": "^6.0.2"
+  },
+  "devDependencies": {
+    "exampler": "^0.1.1"
+  }
+}
